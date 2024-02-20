@@ -50,7 +50,7 @@ body::before{
 }
 
 body{
-    width: 100%;
+    width: 98.3%;
 }
 
 header .col {
@@ -180,7 +180,7 @@ button:hover {
 }
 
 .container-services .row{
-    width: 90%;
+    width: 93%;
     box-shadow: 0 1px 20px;
     border-radius: 20px;
     padding: 20px;
